@@ -35,6 +35,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" />
 
 
