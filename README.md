@@ -36,7 +36,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
+
 
 <br>
 <div align="center">
@@ -46,4 +46,4 @@
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p40000)](https://solved.ac/p40000/)
-</div>
+
