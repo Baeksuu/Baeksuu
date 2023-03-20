@@ -42,8 +42,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)
 <br>
-<br>
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Baeksuu&show_icons=true">
 
 <br>
