@@ -34,12 +34,12 @@
 </p>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white" />
 
 
 <br>
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=Baeksuu&show_icons=true">
 
