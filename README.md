@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Let's Go!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Baeksuu%20Coding%20Story&descAlignY=51&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LET's Go Baeksuu&fontSize=90" />
 
 <br>
 
