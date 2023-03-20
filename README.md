@@ -39,10 +39,11 @@
 </div>
 
 <br>
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Baeksuu&show_icons=true">
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p40000)](https://solved.ac/p40000/)
+</div>
