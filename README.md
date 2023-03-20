@@ -40,7 +40,7 @@
 
 <br>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeksuu&langs_count=8)](https://github.com/Baeksuu/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=Baeksuu&show_icons=true">
 
 <br>
